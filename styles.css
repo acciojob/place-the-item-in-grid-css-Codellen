@@ -2,12 +2,7 @@
 /* Your CSS Code here. */
 .holder{
 	display:grid;
-	grid-template-columns:repeat(4,200px);
+	grid-template-columns:repeat(2,200px);
 	background-color:blue;
    
-}
-.item{
-	margin:10px;
-	padding:20px;
-	background-color:white;
 }
